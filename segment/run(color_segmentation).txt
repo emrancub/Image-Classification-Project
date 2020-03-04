@@ -1,0 +1,1 @@
+python color_segmentation.py -i 17.jpg -w 300 -s hsv -c 02 -n 4 -o -f jpg

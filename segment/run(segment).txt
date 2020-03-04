@@ -1,0 +1,1 @@
+python segment.py -i 1.jpg -n 4
